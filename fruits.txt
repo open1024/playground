@@ -1,4 +1,1 @@
-my fruits shopping list
-two apples
-three oranges
-four bananas
+ I don't like any fruits! 
