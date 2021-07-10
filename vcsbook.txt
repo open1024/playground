@@ -3,3 +3,5 @@ vcs books
 first : VSC Distilled
 
 second : VSC 揭秘 simplified Chinese edition
+
+third : VSC for Python programmers
