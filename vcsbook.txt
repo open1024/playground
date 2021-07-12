@@ -7,3 +7,6 @@ second : VSC 揭秘 simplified Chinese edition
 third : VSC for Python programmers
 
 fourth : VSC new book now published
+fourth : VSC in Action , not yet published
+
+fifth : a new book on VSC , but not sure the title
